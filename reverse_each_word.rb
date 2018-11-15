@@ -3,6 +3,9 @@
 # 	 x.each do |y|
 #    y.reverse
 # end
+#worked w/3 instructors to get this code.
+#learned about end.join 
+#split it, collect it, reverse, then join.
 
 def reverse_each_word(string)
 	x = string.split(" ")
